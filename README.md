@@ -9,5 +9,4 @@ Libraries:
 5. config:
 
 //Step by step on
-https://medium.com/@mikal.shrestha12/building-containerize-and-deploying-node-js-apis-into-aws-part-i-e274fa161cb6
-
+https://mikalshrestha.medium.com/building-containerize-and-deploying-node-js-apis-into-aws-part-i-e274fa161cb6
