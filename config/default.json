@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://mikal:mikal12@cluster0.yynn5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongoURI": "mongodb://mongo:27017/crud-node-app",
     "jwtSecret": "secret"
 }
