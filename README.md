@@ -6,7 +6,7 @@ This project demonstrates the creating of simple CRUD REST APIs using Node.js, E
 - [Express.js](https://expressjs.com/) - Node.js Web Application framework.
 - [MongoDB](https://www.mongodb.com/) - NoSQL database.
 
-## - Libraries:
+## - Libraries Used:
 1. express:
 2. mongoose:
 3. jsonwebtoken:
